@@ -14,7 +14,7 @@ To run Lab Notebook SwiftUI on your local machine, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/LabNotebookSwiftUI.git
+   git clone https://github.com/hussainather/LabNotebookSwiftUI.git
    ```
 2. **Open in Xcode:**
    Open the project in Xcode by double-clicking on the `LabNotebookSwiftUI.xcodeproj` file.
